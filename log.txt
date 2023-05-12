@@ -1,0 +1,45 @@
+[12:41:13 , May 23 2021] Barang Masuk : {KG1} {GAS ELPIJI 1 KG} {200} {PALEMBANG}
+[12:47:45 , May 23 2021] Barang Masuk : {KG1} {GAS ELPIJI 1 KG} {100} {PALEMBANG}
+[12:49:46 , May 23 2021] Barang Masuk : {KG1} {GAS ELPIJI 1 KG} {100} {PALEMBANG}
+[12:50:04 , May 23 2021] Barang Masuk : {KG3} {GAS ELPIJI 3 KG} {100} {PALEMBANG}
+[13:36:44 , Jun 04 2021] Barang Keluar : {RI712A} {KOMPOR RINNAI 2 TUNGKU GRANDE} {1} {MUARO ENIM}
+[13:45:00 , Jun 04 2021] Barang Keluar : {RI712A} {KOMPOR RINNAI 2 TUNGKU GRANDE} {1} {MUAROENIM}
+[12:28:45   Jun 07 2021] login : [ethan]
+[12:29:42   Jun 07 2021] login : [ethan]
+[15:05:33   Jun 07 2021] login : [kenzie]
+[15:07:30   Jun 07 2021] login : [kenzie]
+[15:07:58   Jun 07 2021] login : [kenzie]
+[16:30:13   Jun 07 2021] login : [ethan]
+[16:35:02   Jun 07 2021] login : [ethan]
+[16:35:19   Jun 07 2021] login : login gagal, Password not found
+[16:35:19   Jun 07 2021] login : [ethan]
+[16:36:31   Jun 07 2021] login : login gagal, Username not found
+[16:41:22   Jun 07 2021] login : login gagal, Username not found
+[16:45:07   Jun 07 2021] login : login gagal, Username not found
+[16:51:23   Jun 07 2021] login : [ethan]
+[16:52:51   Jun 07 2021] login : [contoh]
+[16:55:01   Jun 07 2021] login : [ethan]
+[16:56:17   Jun 07 2021] login : [contoh]
+[17:01:12   Jun 07 2021] login : [ethan]
+[17:02:52   Jun 07 2021] login : [ethan]
+[17:03:28   Jun 07 2021] login : [ethan]
+[17:04:03   Jun 07 2021] login : [ethan]
+[17:12:46   Jun 07 2021] login : [contoh]
+[17:13:18   Jun 07 2021] login : login gagal, Username not found
+[17:13:28   Jun 07 2021] login : login gagal, Password not found
+[17:13:38   Jun 07 2021] login : login gagal, Password not found
+[17:13:43   Jun 07 2021] login : [contoh]
+[17:14:01   Jun 07 2021] login : [ethan]
+[17:15:30   Jun 07 2021] Barang Masuk : {RI712A} {KOMPOR RINAI GRANDE 2TUNGKU} {10} {PALEMBANG}
+[17:16:36 , Jun 07 2021] Barang Keluar : {RI712A} {KOMPOR RINAI GRANDE 2TUNGKU} {1} {PALEMBANG}
+[17:23:56   Jun 07 2021] login : [q]
+[17:28:33   Jun 07 2021] login : [contoh]
+[17:28:56   Jun 07 2021] login : login gagal, Username not found
+[17:29:07   Jun 07 2021] login : login gagal, Password not found
+[17:29:15   Jun 07 2021] login : [contoh]
+[17:30:20   Jun 07 2021] Barang Masuk : {RI712A} {KOMPOR RINAI GRANDE 2TUNGKU} {100} {PALEMBANG}
+[17:30:59 , Jun 07 2021] Barang Keluar : {RI712A} {KOMPOR RINAI GRANDE 2TUNGKU} {1} {MUARA ENIM}
+[17:34:24   Jun 07 2021] login : [kenzie]
+[09:57:44   May 11 2023] login : login gagal, Username not found
+[09:58:13   May 11 2023] login : [ethan]
+[09:59:42   May 11 2023] login : [contoh]
